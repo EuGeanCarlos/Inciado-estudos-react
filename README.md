@@ -1,3 +1,58 @@
+# Estudos iniciais de React
+
+Estrutura inicial com package.json e lockfile, sem arquivos de entrada ou componentes.
+
+## Tecnologias
+
+- JavaScript
+- npm
+
+## Funcionalidades e utilização
+
+Não há aplicação executável: faltam arquivos de entrada e implementação.
+
+## Como executar
+
+```bash
+git clone https://github.com/EuGeanCarlos/Inciado-estudos-react.git
+cd Inciado-estudos-react
+npm ci
+npm run dev
+```
+
+Use Node.js 22.12 ou superior e o lockfile versionado. Para compilar, execute npm run build. Limitações descritas acima podem impedir o build.
+
+## Demonstração e publicação
+
+Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+
+## Estrutura versionada
+
+```text
+.gitignore
+README.md
+package-lock.json
+package.json
+```
+
+## Status
+
+Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue o que está implementado das dependências ou etapas pendentes.
+
+## Autor e créditos
+
+**Gean Carlos** — estudante de Engenharia de Computação, UEMA.
+
+[GitHub](https://github.com/EuGeanCarlos)
+
+Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+---
+
+## Documentação original e contexto
+
+O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
